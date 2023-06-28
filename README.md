@@ -10,7 +10,7 @@ Los proyectos que encontraras aqui estaran relacionados con :
 
 ## Proyectos
 
-# 🟢🟧🔺 Herencia Geometrica 
+# 🟢🟧 Herencia Geometrica 
 ► [Project description and code](https://github.com/roaxen/C_Sharp-HerenciaGeometrica)
 
 # 🎲 CARTA ALTA | CARTA ALTA POKER
