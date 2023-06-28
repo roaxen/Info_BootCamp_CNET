@@ -2,7 +2,7 @@
 
 En esta pagina podras ver algunos de los proyectos que he ido realizando en el Bootcamp de programacion de C# y .NET
 Seguramente no esten todos los ejercicios que realizamos y algunos seran de complejidad muy simple. 
-Los proyectos que encontraras aqui estaran relacionados con 
+Los proyectos que encontraras aqui estaran relacionados con :
 <br>▪ C#
 <br>▪ SQL Server
 <br>▪ ASP:NET.
